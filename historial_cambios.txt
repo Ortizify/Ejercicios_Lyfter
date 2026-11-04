@@ -1,0 +1,17 @@
+CHANGE HISTORY
+
+Commit: Add past exercises
+
+What changed:
+The previous exercises from IT Essentials, Programming Logic, and Basic Python were added and organized inside the DUAD folder.
+
+Why the change was made:
+The change was made to organize and upload the exercises from the previous modules to the GitHub repository.
+
+Commit: Initial commit
+
+What changed:
+The GitHub repository was created with the initial README.md file.
+
+Why the change was made:
+The change was made to initialize the repository that will be used to store the exercises for the program.
